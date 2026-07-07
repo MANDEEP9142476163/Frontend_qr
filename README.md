@@ -3,7 +3,7 @@
 A simple QR Code Component built using HTML and CSS.
 
 ## 🚀 Technologies Used
-- HTML5
+- HTML
 - CSS
 
 ##Preview
