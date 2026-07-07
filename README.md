@@ -6,6 +6,9 @@ A simple QR Code Component built using HTML and CSS.
 - HTML5
 - CSS
 
+##Preview
+![project screenshot](screenshot.png)
+
 ## 📁 Project Structure
 
 Frontend_qr
