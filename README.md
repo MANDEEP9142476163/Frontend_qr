@@ -8,10 +8,10 @@ A simple QR Code Component built using HTML and CSS.
 
 ## 📁 Project Structure
 
-Frontend_qr/
+Frontend_qr
 │── index.html
 │── style.css
-│── design_files/
+│── design_files
 
 ## 👨‍💻 Author
 
